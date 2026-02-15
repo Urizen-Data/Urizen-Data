@@ -63,3 +63,25 @@
     <img src="https://img.shields.io/badge/Marketplace_Optimization-Repo-2f80ed?style=flat"/>
   </a>
 </p>
+
+***
+
+#### Dashboards
+
+<p align="left">
+  <a href="https://datalens.ru/ezb3dgqfz5e61-dota-2-analytics" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Dota_2_Analytics-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.ru/8sd7ukk4hflyv-dashbord-dlya-agentstva-nedvizhimosti" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Real_Estate_Agency-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.ru/y5t92yf69r40k-dobroe-serdce" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Good_Heart_Foundation-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.ru/r924prdsstwke-issledovanie-konferenciy-ted" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/TED_Research-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.ru/17cg4kfxb7yun-klyuchevye-biznes-metriki-v-saranske-may-iyun-2021" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Food_Delivery_Metrics-Open-2f80ed?style=flat&width=160"/>
+  </a>
+</p>
