@@ -6,16 +6,42 @@
 
 ## 🧪 The Analyst's Lab
 
-**Role:** Product / Data Analyst  
+### Data Analyst | Product | BI Analyst
+
 **Mission:** End-to-end analysis — from messy data to actionable insights  
 **Philosophy:** "Behind every number, there's a story. I find it, tell it, and measure the impact."
+***
+### Toolkit:
 
-**Toolkit:**
-- **Languages:** Python (pandas, numpy, scikit-learn)
-- **Databases:** ClickHouse, SQL, Big Data
-- **Workflow:** Jupyter, Airflow, Statistics, A/B testing
-- **Economics:** Unit-economics, cohort analysis, funnel analytics
+<p align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <strong>Python</strong>&nbsp;&nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <strong>PostgreSQL</strong>&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <strong>Jupyter</strong>&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
+  <strong>Apache Airflow</strong>&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
+  <strong>PySpark</strong>&nbsp;&nbsp;
+
+  <img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front-e1737618341223.png" width="40" style="vertical-align: middle;"/>
+  <strong>DataLens</strong>&nbsp;&nbsp;
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+  <strong>Excel</strong>&nbsp;&nbsp;
+
+- **Languages & Libraries:** Python (pandas, numpy, scikit-learn, SciPy), PySpark
+- **Databases:** SQL, ClickHouse, Big Data
+- **Workflow & Statistics:** Jupyter Notebook, Apache Airflow, mathematical statistics, probability theory, A/B testing, exploratory data analysis (EDA), regression analysis, clustering (k-means)
+- **Visualization & BI:** Matplotlib, Seaborn, DataLens
+- **Business & Economics:** Unit-economics, marketing metrics, cohort analysis, funnel analytics
+***
 **Connect:**
 - 📧 [urizen@rambler.ru](mailto:urizen@rambler.ru)
 - 📱 Telegram: [@urizen6](https://t.me/urizen6)
