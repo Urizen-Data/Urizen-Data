@@ -50,11 +50,11 @@
 📍 Based in Stavropol, Russia · Open to remote collaboration worldwide 🌍
 ***
 #### Projects in Repositories
-
+<!--
 <p align="left">
   <a href="https://github.com/Urizen-Data/project_activities/tree/main/01_game_industry_analysis" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/Game_Industry_Analysis-Repo-2f80ed?style=flat"/>
-  </a>
+  </a>-->
   <a href="https://github.com/Urizen-Data/project_activities/tree/main/02_dta_analysis" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/DTA_Analysis-Repo-2f80ed?style=flat"/>
   </a>
