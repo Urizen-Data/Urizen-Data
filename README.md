@@ -58,6 +58,11 @@
   <a href="https://github.com/Urizen-Data/project_activities/tree/main/02_dta_analysis" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/DTA_Analysis-Repo-2f80ed?style=flat"/>
   </a>-->
+https://github.com/Urizen-Data/Medical_data_visualisation_system.git
+  <a href="https://github.com/Urizen-Data/Medical_data_visualisation_system.git" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Medical_data_visualisation_system-Repo-2f80ed?style=flat"/>
+  </a>
+  
   <a href="https://github.com/Urizen-Data/project_activities/tree/main/03_dta_deep_analysis" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/DTA_Deep_Analysis-Repo-2f80ed?style=flat"/>
   </a>
