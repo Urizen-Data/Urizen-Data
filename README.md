@@ -95,6 +95,11 @@
 #### Dashboards
 
 <p align="left">
+  <a href="https://datalens.ru/s3vte8xmi1wkc?_theme=dark" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Medical_data_visualisation_system-Open-2f80ed?style=flat&width=160"/>
+  </a>
+
+<p align="left">
   <a href="https://datalens.ru/ezb3dgqfz5e61-dota-2-analytics" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/Dota_2_Analytics-Open-2f80ed?style=flat&width=160"/>
   </a>
