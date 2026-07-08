@@ -21,6 +21,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <strong>PostgreSQL</strong>&nbsp;&nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duckdb/duckdb-original.svg" width="40"/>
+  <strong>DuckDB</strong>&nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
   <strong>Jupyter</strong>&nbsp;&nbsp;
 
@@ -30,6 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
   <strong>PySpark</strong>&nbsp;&nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <strong>Docker</strong>&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40"/>
+  <strong>Plotly / Dash</strong>&nbsp;&nbsp;
+
   <img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front-e1737618341223.png" width="40" style="vertical-align: middle;"/>
   <strong>DataLens</strong>&nbsp;&nbsp;
 
@@ -37,9 +46,11 @@
   <strong>Excel</strong>&nbsp;&nbsp;
 
 - **Languages & Libraries:** Python (pandas, numpy, scikit-learn, SciPy), PySpark
-- **Databases:** SQL, ClickHouse, Big Data
-- **Workflow & Statistics:** Jupyter Notebook, Apache Airflow, mathematical statistics, probability theory, A/B testing, exploratory data analysis (EDA), regression analysis, clustering (k-means)
-- **Visualization & BI:** Matplotlib, Seaborn, DataLens
+- **Databases & Storage:** SQL, PostgreSQL, ClickHouse, DuckDB, Apache Parquet, Big Data
+- **Data Engineering:** ETL / ELT pipelines, Apache Airflow, orchestration, resume & idempotency, API integration (REST)
+- **Workflow & Statistics:** Jupyter Notebook, mathematical statistics, probability theory, A/B testing, exploratory data analysis (EDA), regression analysis, clustering (k-means)
+- **Visualization & BI:** Matplotlib, Seaborn, Plotly / Dash, DataLens
+- **DevOps & Deploy:** Docker, containerization, Hugging Face Spaces
 - **Business & Economics:** Unit-economics, marketing metrics, cohort analysis, funnel analytics
 ***
 **Connect:**
@@ -50,18 +61,17 @@
 📍 Based in Stavropol, Russia · Open to remote collaboration worldwide 🌍
 ***
 #### Projects in Repositories
-<!--
+
 <p align="left">
-  <a href="https://github.com/Urizen-Data/project_activities/tree/main/01_game_industry_analysis" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Game_Industry_Analysis-Repo-2f80ed?style=flat"/>
+  <a href="https://github.com/Urizen-Data/master-service" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Master_Service_BI_&_ETL-Repo-2f80ed?style=flat"/>
   </a>
-  <a href="https://github.com/Urizen-Data/project_activities/tree/main/02_dta_analysis" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/DTA_Analysis-Repo-2f80ed?style=flat"/>
-  </a>-->
-  <a href="https://github.com/Urizen-Data/Medical_data_visualisation_system.git" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Medical_data_visualisation_system-Repo-2f80ed?style=flat"/>
+  <a href="https://github.com/Urizen-Data/nexus-insights" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Nexus_Insights_(LoL_ELT)-Repo-2f80ed?style=flat"/>
   </a>
-  
+  <a href="https://github.com/Urizen-Data/Medical_data_visualisation_system" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Medical_Data_Visualisation-Repo-2f80ed?style=flat"/>
+  </a>
   <a href="https://github.com/Urizen-Data/project_activities/tree/main/03_dta_deep_analysis" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/DTA_Deep_Analysis-Repo-2f80ed?style=flat"/>
   </a>
@@ -99,11 +109,15 @@
 #### Dashboards
 
 <p align="left">
-  <a href="https://datalens.ru/s3vte8xmi1wkc?_theme=dark" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Medical_data_visualisation_system-Open-2f80ed?style=flat&width=160"/>
+  <a href="https://datalens.yandex/aq66vepq8nwsu?_theme=light" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Master_Service_(Property_Network)-Open-2962FF?style=flat&width=160"/>
   </a>
-
-<p align="left">
+  <a href="https://Urizen-Data-lol-dashboard.hf.space" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Nexus_Insights_(LoL_Analytics)-Open-FF9D00?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.yandex/s3vte8xmi1wkc?_theme=light" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Tuberculosis_Analytics-Open-2a6d8f?style=flat&width=160"/>
+  </a>
   <a href="https://datalens.ru/ezb3dgqfz5e61-dota-2-analytics" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/Dota_2_Analytics-Open-2f80ed?style=flat&width=160"/>
   </a>
