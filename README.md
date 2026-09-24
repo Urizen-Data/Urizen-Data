@@ -45,11 +45,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
   <strong>Excel</strong>&nbsp;&nbsp;
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Power_BI_logo.svg" width="40"/>
+  <strong>Power BI</strong>&nbsp;&nbsp;
+
 - **Languages & Libraries:** Python (pandas, numpy, scikit-learn, SciPy), PySpark
 - **Databases & Storage:** SQL, PostgreSQL, ClickHouse, DuckDB, Apache Parquet, Big Data
 - **Data Engineering:** ETL / ELT pipelines, Apache Airflow, orchestration, resume & idempotency, API integration (REST)
 - **Workflow & Statistics:** Jupyter Notebook, mathematical statistics, probability theory, A/B testing, exploratory data analysis (EDA), regression analysis, clustering (k-means)
-- **Visualization & BI:** Matplotlib, Seaborn, Plotly / Dash, DataLens
+- **Visualization & BI:** **Power BI (advanced proficiency)**, Matplotlib, Seaborn, Plotly / Dash, DataLens
 - **DevOps & Deploy:** Docker, containerization, Hugging Face Spaces
 - **Business & Economics:** Unit-economics, marketing metrics, cohort analysis, funnel analytics
 ***
