@@ -45,7 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
   <strong>Excel</strong>&nbsp;&nbsp;
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Power_BI_logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
   <strong>Power BI</strong>&nbsp;&nbsp;
 
 - **Languages & Libraries:** Python (pandas, numpy, scikit-learn, SciPy), PySpark
